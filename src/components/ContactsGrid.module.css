@@ -1,0 +1,100 @@
+.container {
+  direction: rtl;
+}
+
+/* Search bar */
+.searchContainer {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.searchInput {
+  flex-grow: 1;
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid #dddddd;
+  font-size: 16px;
+}
+
+.deleteSelectedButton {
+  background: #f44336;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.contactCard {
+  background: white;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+}
+
+.contactCard.selected {
+  background-color: #f0f7ff;
+  border-left: 3px solid #2196f3;
+}
+
+.contactCheckbox {
+  width: 20px;
+  margin-left: 10px;
+}
+
+.contactInfo {
+  flex-grow: 1;
+}
+
+.contactName {
+  margin: 0 0 5px 0;
+  color: #333333;
+}
+
+.contactEmail {
+  margin: 0;
+  color: #666666;
+  font-size: 14px;
+}
+
+/* Action buttons */
+.contactActions {
+  display: flex;
+}
+
+.viewButton {
+  background: #4caf50;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  margin-left: 8px;
+}
+
+.editButton {
+  background: #2196f3;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  margin-left: 8px;
+}
+
+.deleteButton {
+  background: #f44336;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  margin-left: 8px;
+}

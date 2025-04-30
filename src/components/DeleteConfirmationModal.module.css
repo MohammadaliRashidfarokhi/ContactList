@@ -1,0 +1,38 @@
+.modalTitle {
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: #333333;
+  font-size: 1.2em;
+}
+
+.modalMessage {
+  margin-bottom: 20px;
+  color: #666666;
+  line-height: 1.5;
+}
+
+.modalActions {
+  display: flex;
+  justify-content: center;
+}
+
+.confirmButton {
+  background: #f44336;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 10px;
+  min-width: 80px;
+}
+
+.cancelButton {
+  background: #757575;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  min-width: 80px;
+}
