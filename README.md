@@ -1,4 +1,4 @@
-# 📞📲 Mini Contact List Manager (React)
+# 📲 Mini Contact List Manager (React)
 
 A Persian-friendly contact management app with CRUD operations. Part of the bootCamp program called BotoStart.
 
