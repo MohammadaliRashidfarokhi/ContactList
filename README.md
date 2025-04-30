@@ -14,8 +14,10 @@ A Persian-friendly contact management app with CRUD operations. Part of the boot
 
    ```
 
-2. **Install dependencies**  
+2. **Install dependencies**
+   
    npm install
 
 3. **Run the app**
+   
    npm run dev
