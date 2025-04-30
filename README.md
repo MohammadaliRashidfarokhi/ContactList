@@ -4,6 +4,8 @@ A Persian-friendly contact management app with CRUD operations. Part of the boot
 
 # 📽️ Demo:
 
+![Demo-Gif](https://github.com/MohammadaliRashidfarokhi/ContactList/blob/main/public/Demo.gif)
+
 ## 🚀Run Instructions:
 
 1. **Clone the repo**
